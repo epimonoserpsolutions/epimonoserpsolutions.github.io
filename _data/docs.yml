@@ -1,0 +1,15 @@
+- title: Purchase
+  docs:
+  - ModulePurchase
+  - Supplier
+  - GRN
+
+- title: Production
+  docs:
+  - BOM
+  - ProductionJobOrder
+  - 
+- title: Inventory
+  docs:
+  - StockRequest
+  - StockTransfer
