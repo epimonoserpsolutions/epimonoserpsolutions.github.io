@@ -3,13 +3,8 @@ title: Supplier
 permalink: /docs/Supplier/
 published: true
 ---
----
-title: Supplier
-permalink: /docs/Supplier/
----
 
-Hello World!
+This is to check how to Make Supplier Help Page
 
-Dear Suppliers
 
-Hello World !
+
