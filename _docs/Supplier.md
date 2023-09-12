@@ -5,4 +5,4 @@ permalink: /docs/supplier/
 
 
 
-![suppliermaster-1](supplier-1.png)
+![suppliermaster-1](..\images\supplier-1.png)
