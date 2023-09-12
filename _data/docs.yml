@@ -1,15 +1,15 @@
 - title: Purchase
   docs:
-  - ModulePurchase
-  - Supplier
-  - GRN
+  - purchasemodule
+  - supplier
+  - grn
 
 - title: Production
   docs:
-  - BOM
-  - ProductionJobOrder
+  - bom
+  - productionjoborder
   - 
 - title: Inventory
   docs:
-  - StockRequest
-  - StockTransfer
+  - stockrequest
+  - stocktransfer

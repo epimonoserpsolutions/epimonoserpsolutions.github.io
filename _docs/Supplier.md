@@ -1,6 +1,6 @@
 ---
-title: Supplier
-permalink: /docs/Supplier/
+title: Supplier Master
+permalink: /docs/supplier/
 ---
 
 
