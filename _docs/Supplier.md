@@ -1,6 +1,6 @@
 ---
 title: Supplier
-permalink: /docs/Supplier
+permalink: /docs/Supplier/
 ---
 
 
