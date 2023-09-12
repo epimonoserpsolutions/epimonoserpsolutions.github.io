@@ -5,4 +5,4 @@ permalink: /docs/Supplier
 
 
 
-![image-20230912073709095](D:\epimonosGit\epimonoserpsolutions.github.io\_docs\Supplier-1.png)
+![image-20230912073709095](D:\epimonosGit\epimonoserpsolutions.github.io\_docs\Images\Supplier-1.png)
