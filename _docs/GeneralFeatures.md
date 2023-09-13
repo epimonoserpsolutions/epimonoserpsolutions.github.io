@@ -38,7 +38,7 @@ permalink: /docs/GeneralFeatures/
 
 #####  <u>Transaction Search Options</u>
 
-![image-20230913122629746](..\image-20230913122629746.png)
+![Search](..\images\Search.png)
 
 ##### <u>Report Options</u>
 
