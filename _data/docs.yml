@@ -1,15 +1,29 @@
+- title: General
+  docs:
+  - GeneralFeatures
 - title: Purchase
   docs:
   - purchasemodule
   - supplier
-  - grn
-
+  - grn  
+- title: Sales
+  docs:  
+  - Customer
+  - SalesEnquiry
+  - Quotation  
 - title: Production
-  docs:
-  - bom
-  - productionjoborder
+  docs:  
+
+  - BillofMaterial
+  - ProductionPlanning
+  - MaterialRequirementPlanning
+  - SubcontractWorkIssue
+  - SunbcontractWorkReturn
+  - ProductionSheet
   - 
 - title: Inventory
-  docs:
-  - stockrequest
-  - stocktransfer
+  docs:  
+  - StockRequest
+  - StockIssue
+  - StockTransfer
+  - MaterialReturn
