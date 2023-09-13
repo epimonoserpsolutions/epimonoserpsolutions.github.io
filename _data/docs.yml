@@ -10,8 +10,16 @@
   - Quotation  
 - title: Production
   docs:  
-  - BOM
-  - productionjoborder  
+  
+  - BillofMaterial
+  - ProductionPlanning
+  - MaterialRequirementPlanning
+  - MaterialRequest
+  - MaterialIssueTransfer
+  - SubcontractWorkIssue
+  - SunbcontractWorkReturn
+  - ProductionSheet
+  - MaterialReturn
 - title: Inventory
   docs:  
   - stockrequest
