@@ -9,7 +9,7 @@ permalink: /docs/BillofMaterial/
 >
 > b.  Definition of Overhead & Labor charges.
 >
-> c.  Activities/Phases involved in the process.
+> c.  Activities/Phases involved in the process. 
 
 
 
