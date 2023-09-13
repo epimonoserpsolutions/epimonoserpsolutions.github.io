@@ -3,20 +3,16 @@
   - purchasemodule
   - supplier
   - grn
-- title: Sales
-  docs:
-  - Salesmodule
-  - Customer
-  - Sales Enquiry
+  
 - title: Production
   docs:
   - bom
   - productionjoborder
-  - 
+  
 - title: Inventory
   docs:
+  
   - stockrequest
   - stocktransfer
-- title: Accounts
-  docs:
-	- Chart of Accounts
+  
+  
