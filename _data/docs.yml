@@ -2,23 +2,18 @@
   docs:
   - purchasemodule
   - supplier
-  - grn
-  
+  - grn  
 - title: Sales
-  docs:
+  docs:  
   - Customer
   - SalesEnquiry
-  - Quotation
-  
+  - Quotation  
 - title: Production
-  docs:
-  
+  docs:  
   - BOM
-  - productionjoborder
-  
+  - productionjoborder  
 - title: Inventory
-  docs:
-  
+  docs:  
   - stockrequest
   - stocktransfer
   
