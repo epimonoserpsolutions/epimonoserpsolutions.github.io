@@ -4,9 +4,16 @@
   - supplier
   - grn
   
+- title: Sales
+  docs:
+  - Customer
+  - SalesEnquiry
+  - Quotation
+  
 - title: Production
   docs:
-  - bom
+  
+  - BOM
   - productionjoborder
   
 - title: Inventory
