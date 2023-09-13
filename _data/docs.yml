@@ -14,15 +14,14 @@
   - BillofMaterial
   - ProductionPlanning
   - MaterialRequirementPlanning
-  - MaterialRequest
-  - MaterialIssueTransfer
   - SubcontractWorkIssue
   - SunbcontractWorkReturn
   - ProductionSheet
-  - MaterialReturn
+  - 
 - title: Inventory
   docs:  
-  - stockrequest
-  - stocktransfer
-  
+  - StockRequest
+  - StockIssue
+  - StockTransfer
+  - MaterialReturn
   
