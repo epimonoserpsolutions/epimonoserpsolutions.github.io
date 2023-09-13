@@ -3,7 +3,9 @@ title: General Features
 permalink: /docs/GeneralFeatures/
 ---
 
-> **Epimonos ERP Solutions WLL** is a Bahrain  [cloud](https://en.wikipedia.org/wiki/Cloud_computing)-based [enterprise software](https://en.wikipedia.org/wiki/Enterprise_software) company that provides products and services tailored for [small and medium-sized businesses (SMBs)](https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises) including [accounting](https://en.wikipedia.org/wiki/Accounting) and [financial management](https://en.wikipedia.org/wiki/Financial_management), [procurement](https://en.wikipedia.org/wiki/Procurement), [Sales Management](), [inventory management ](https://en.wikipedia.org/wiki/Field_inventory_management), [human capital management](https://en.wikipedia.org/wiki/Human_capital_management) & [payroll](https://en.wikipedia.org/wiki/Payroll), [project management](https://en.wikipedia.org/wiki/Project_management), Service center solutions, [Real Estate & Property management](), [Production and Manufacturing.]()
+> **Epimonos ERP Solutions WLL** is a Bahrain  [cloud](https://en.wikipedia.org/wiki/Cloud_computing)-based [enterprise software](https://en.wikipedia.org/wiki/Enterprise_software) company that provides products and services tailored for [small and medium-sized businesses (SMBs)](https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises) including [accounting](https://en.wikipedia.org/wiki/Accounting) and [financial management](https://en.wikipedia.org/wiki/Financial_management), [procurement](https://en.wikipedia.org/wiki/Procurement), [Sales Management](https://en.wikipedia.org/wiki/Sales_management), [inventory management ](https://en.wikipedia.org/wiki/Field_inventory_management), [human capital management](https://en.wikipedia.org/wiki/Human_capital_management) & [payroll](https://en.wikipedia.org/wiki/Payroll), [project management](https://en.wikipedia.org/wiki/Project_management), Service center solutions, [Real Estate](https://en.wikipedia.org/wiki/Real_estate) & [Property management](https://en.wikipedia.org/wiki/Property_management), [Production](https://en.wikipedia.org/wiki/Production_(economics)) and [Manufacturing](https://en.wikipedia.org/wiki/Production_(economics)).
+
+##### Documents Options
 
 ![image-20230913120531901](..\images\Menu.png)
 
@@ -13,25 +15,25 @@ permalink: /docs/GeneralFeatures/
 
 -    **Search**: Re-Open the saved document
 
-- ​    **Preview**: Preview the document before print
+- **Preview**: Preview the document before print
 
-- ​    **Log History**: All the logs shows related to that document. 
+- **Log History**: All the logs shows related to that document. 
 
-- ​    **Attachments**: To attach the files on to the document
+- **Attachments**: To attach the files on to the document
 
-- ​    **Ref. Documents**: To download the parent document transactions.
+- **Ref. Documents**: To download the parent document transactions.
 
-- ​    **Settings** : Printing and Grid view options. adjust the column width, hide and show columns, Page setup, Row style etc.
+- **Settings** : Printing and Grid view options. adjust the column width, hide and show columns, Page setup, Row style etc.
 
-- ​    **Login** : Login and log out for the user
+- **Login** : Login and log out for the user
 
-- ​    **Application Settings** : Theme and Language change
+- **Application Settings** : Theme and Language change
 
-- ​     **Account Entries** : View the Ledger entries from the document.
+-  **Account Entries** : View the Ledger entries from the document.
 
-- ​     **Stock Ledger Entries**: View the Stock Ledger entries from the document.
+- **Stock Ledger Entries**: View the Stock Ledger entries from the document.
 
-- ​     **Repost Entries**: To repost the ledger & stock entries
+- **Repost Entries**: To repost the ledger & stock entries
 
 
 #####  <u>Transaction Search Options</u>
