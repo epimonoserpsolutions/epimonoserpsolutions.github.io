@@ -5,7 +5,7 @@
   - ReportFeatures
 - title: Purchase
   docs:
-  - Work Flow
+  - WorkFlow
   - supplier
   - PurchaseRequest
   - RequisitionProcessing
