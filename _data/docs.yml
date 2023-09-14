@@ -3,6 +3,7 @@ docs:
   -GeneralFeatures
   -DocumentFeatures
   -ReportFeatures
+
 title: Purchase
 docs:
   -PurchaseWorkFlow
@@ -17,6 +18,7 @@ docs:
   -PurchaseInvoice
   -PurchaseReturn
   -GeneralLPO
+
 title: Sales
 docs:    
   -SalesWorkFlow
@@ -37,6 +39,7 @@ docs:
   -SubcontractWorkIssue
   -SunbcontractWorkReturn
   -ProductionSheet 
+
 title: Inventory
 docs:  
   InventoryWorkFlow
@@ -47,6 +50,7 @@ docs:
   -StockAcceptance
   -StockReturn
   -StockAdjustment
+
 title: Accounts
 docs:
   -ChartofAccount
