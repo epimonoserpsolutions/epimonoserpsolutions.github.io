@@ -1,5 +1,5 @@
 ---
-title: Quotation Comparison (RFQ)
+title: Quotation Comparison
 permalink: /docs/QuotationComparison/
 ---
 
