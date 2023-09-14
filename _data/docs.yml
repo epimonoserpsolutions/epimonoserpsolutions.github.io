@@ -3,9 +3,10 @@
   - GeneralFeatures
   - DocumentFeatures
   - ReportFeatures
+  
 - title: Purchase
   docs:
-  - WorkFlow
+  - PurchaseWorkFlow
   - supplier
   - PurchaseRequest
   - RequisitionProcessing
@@ -17,8 +18,10 @@
   - PurchaseInvoice
   - PurchaseReturn
   - GeneralLPO
+  
 - title: Sales
-  docs:  
+  docs:    
+  - SalesWorkFlow
   - Customer
   - SalesEnquiry
   - SalesQuotation
@@ -27,19 +30,36 @@
   - SalesInvoice
   - CashMemo
   - DeliveryOrder
+  - SalesReturn
+  
 - title: Production
   docs:  
-
+  -ProductionWorkFlow
   - BillofMaterial
   - ProductionPlanning
   - MaterialRequirementPlanning
   - SubcontractWorkIssue
   - SunbcontractWorkReturn
-  - ProductionSheet
-  - 
+  - ProductionSheet 
+  
 - title: Inventory
   docs:  
+  -InventoryWorkFlow
+  - OpeningStock
   - StockRequest
   - StockIssue
   - StockTransfer
-  - MaterialReturn
+  - StockAcceptance
+  - StockReturn
+  - StockAdjustment
+  
+- title: Accounts
+  docs:
+  -ChartofAccount
+  -Journal
+  -BankPayment
+  -SalesReceipt
+  -BankDeposit
+  -Payment
+  -Receipt
+
