@@ -1,6 +1,6 @@
 ---
 title: Work Flow
-permalink: /docs/WorkFlow/
+permalink: /docs/PurchaseWorkFlow/
 ---
 
 
