@@ -5,7 +5,7 @@ permalink: /docs/GeneralFeatures/
 
 > **Epimonos ERP Solutions WLL** is a Bahrain  [cloud](https://en.wikipedia.org/wiki/Cloud_computing)-based [enterprise software](https://en.wikipedia.org/wiki/Enterprise_software) company that provides products and services tailored for [small and medium-sized businesses (SMBs)](https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises) including [accounting](https://en.wikipedia.org/wiki/Accounting) and [financial management](https://en.wikipedia.org/wiki/Financial_management), [procurement](https://en.wikipedia.org/wiki/Procurement), [Sales Management](https://en.wikipedia.org/wiki/Sales_management), [inventory management ](https://en.wikipedia.org/wiki/Field_inventory_management), [human capital management](https://en.wikipedia.org/wiki/Human_capital_management) & [payroll](https://en.wikipedia.org/wiki/Payroll), [project management](https://en.wikipedia.org/wiki/Project_management), Service center solutions, [Real Estate](https://en.wikipedia.org/wiki/Real_estate) & [Property management](https://en.wikipedia.org/wiki/Property_management), [Production](https://en.wikipedia.org/wiki/Production_(economics)) and [Manufacturing](https://en.wikipedia.org/wiki/Production_(economics)).
 
-##### Documents Options
+#####  bootwatch: cerulean
 
 ![image-20230913120531901](..\images\Menu.png)
 
