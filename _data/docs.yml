@@ -1,5 +1,5 @@
 title: General
-docs:
+ docs:
   -GeneralFeatures
   -DocumentFeatures
   -ReportFeatures
@@ -40,5 +40,24 @@ docs:
   -SunbcontractWorkReturn
   -ProductionSheet 
 
+title: Inventory
+docs:  
+  InventoryWorkFlow
+  -OpeningStock
+  -StockRequest
+  -StockIssue
+  -StockTransfer
+  -StockAcceptance
+  -StockReturn
+  -StockAdjustment
 
+title: Accounts
+docs:
+  -ChartofAccount
+  -Journal
+  -BankPayment
+  -SalesReceipt
+  -BankDeposit
+  -Payment
+  -Receipt
 
