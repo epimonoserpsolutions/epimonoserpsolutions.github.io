@@ -1,16 +1,32 @@
 - title: General
   docs:
   - GeneralFeatures
+  - DocumentFeatures
+  - ReportFeatures
 - title: Purchase
   docs:
   - Work Flow
   - supplier
   - PurchaseRequest
+  - RequisitionProcessing
+  - RequestForQuotation
+  - PurchaseQuotation
+  - QuotationComparison
+  - PurchaseOrder
+  - GoodsReceivedNote 
+  - PurchaseInvoice
+  - PurchaseReturn
+  - GeneralLPO
 - title: Sales
   docs:  
   - Customer
   - SalesEnquiry
-  - Quotation  
+  - SalesQuotation
+  - SalesOrder
+  - SalesDeliveryNote
+  - SalesInvoice
+  - CashMemo
+  - DeliveryOrder
 - title: Production
   docs:  
 
