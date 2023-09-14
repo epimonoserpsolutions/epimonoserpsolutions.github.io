@@ -1,5 +1,5 @@
 ---
-title: Requisition Processing(RP)
+title: RequisitionProcessing(RP)
 permalink: /docs/RequisitionProcessing/
 ---
 
