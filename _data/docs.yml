@@ -1,5 +1,5 @@
-title: General
-docs:
-  -GeneralFeatures
-  -DocumentFeatures
-  -ReportFeatures
+- title: General
+  docs:
+  - GeneralFeatures
+  - DocumentFeatures
+  - ReportFeatures
