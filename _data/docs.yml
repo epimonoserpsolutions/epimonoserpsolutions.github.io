@@ -3,9 +3,9 @@
   - GeneralFeatures
 - title: Purchase
   docs:
-  - purchasemodule
+  - Work Flow
   - supplier
-  - grn  
+  - Purchase Request
 - title: Sales
   docs:  
   - Customer
