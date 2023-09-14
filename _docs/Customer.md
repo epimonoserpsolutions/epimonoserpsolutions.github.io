@@ -7,10 +7,6 @@ permalink: /docs/Customer/
 
 ------
 
-######  bootwatch: customyaml
-
-
-
 ###### fda sdfsdfdfd 
 
 > sgdgsfgsgsgs
