@@ -9,7 +9,7 @@ permalink: /docs/BillofMaterial/
 >
 > c.  Activities/Phases involved in the process. 
 
-![image-20230913123612592](..\image-20230913123612592.png)
+![BOM](..\images\BOM.png)
 
 ##### **Header Fields**
 
