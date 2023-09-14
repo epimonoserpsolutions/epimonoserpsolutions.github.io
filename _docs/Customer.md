@@ -5,8 +5,6 @@ permalink: /docs/Customer/
 
 
 
-------
-
 ###### fda sdfsdfdfd 
 
 > sgdgsfgsgsgs
