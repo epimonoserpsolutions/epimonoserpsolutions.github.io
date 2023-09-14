@@ -1,8 +1,9 @@
 ---
 title: Purchase Request
-permalink: /docs/Purchase Request/
+permalink: /docs/PurchaseRequest/
 ---
 
 
 
 ###### fsfdsfewrwrwerwe
+
