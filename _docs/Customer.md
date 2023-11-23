@@ -5,11 +5,9 @@ permalink: /docs/Customer/
 
 
 
-###### fda sdfsdfdfd 
+###### Customer
 
-> sgdgsfgsgsgs
->
-> dfdafdfdaf
+> 
 >
 > 
 
